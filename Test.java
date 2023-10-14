@@ -3,4 +3,8 @@ class Test{
         return 0;
     }
 
+        public int testing2(int test){
+        return 1;
+    }
+
 }
