@@ -5,4 +5,8 @@ class Main{
         System.out.println("Hello World");
         //Hola!
     }
+
+    private static void test() {
+        
+    }
 }
